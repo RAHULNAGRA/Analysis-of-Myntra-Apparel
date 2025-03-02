@@ -1,6 +1,6 @@
 
 
-# Myntra Apparel Dataset Analysis
+# Myntra Apparel Dataset Analysis Project1
 
 ## Project Overview
 This project focuses on analyzing Myntra's apparel dataset to extract valuable insights into pricing, discounts, ratings, and available sizes. 
